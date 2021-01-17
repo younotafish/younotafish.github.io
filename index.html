@@ -129,9 +129,10 @@
 					<img src="img/raft.png" alt="Garbage">
 				</a>
 				<div class="desc"><b>A Fault-Tolerant Diestributed Storage System with Raft</b>
-					<br> --a fault-tolerant key/value distributed storage system
-					<br>--Using Raft to keep consistency.
-					<br> --Persisted the system state when servers exit
+					<br> --Built a fault-tolerant key/value distributed storage system using Go, with the replicated state machine protocol Raft to keep consistency.
+					<br>--Persisted the system state when servers exit. And adopted log compaction to reduce the size of log stored in each servers, maintained a strong consistency by sending snapshot to followers.
+					<br> --Partitioned the storage system to improve the system throughput. The system is able to shift shards among replica groups for load balancing.
+					<br> --
 				</div>
 			</div>
 		</div>
