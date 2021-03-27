@@ -1,15 +1,29 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Shori"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi, I'm Shori, a CS major in grad school.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I was born and raised in Shanghai. I spent a couple years of middle school in Seattle. Then, I went back to get a bachelor's at Shanghai U. And now, I am on my way to a double master's at the University of California.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+The motivation of the blog is simple: I have the time to do it as I'm on my gap year; and, my current intern position at Arm requires me to read and experiment extensively on open-source code and technology.
 
-Thanks for reading!
+So, why not? I guess.
+
+<br />
+
+
+<p style="text-align: center;">
+    <a style="color:#555" href="https://github.com/lishpr" target="_blank" rel="noopener">
+        <i class="fab fa-github fa-3x"></i>
+    </a>&nbsp; &nbsp; 
+    <a style="color:#555" href="https://www.linkedin.com/in/shoriyu" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin fa-3x"></i>
+    </a>&nbsp; &nbsp; 
+    <a style="color:#555" href="mailto:lixyu57@gmail.com" >
+        <i class="fas fa-envelope fa-3x"></i>
+    </a>
+</p>
